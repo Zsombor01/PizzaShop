@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(250, 235, 215, 0.2);
+    max-height: 100vh;
+    overflow: auto;
+}
+
+/* .container {
+    border: 1px solid black;
+} */
+.pizza-orders {
+    /* height: 64vh; */
+    max-height: 64vh;
+    overflow: auto;
+
+}
+
+.orders-container {
+    max-height: 20vh;
+    margin-top: 3rem;
+    overflow: auto;
+}
+
+.plus {
+    max-width: 2.25rem;
+    cursor: pointer;
+}
+
+.minus {
+    max-width: 2.25rem;
+    cursor: pointer;
+}
+
+.orderednumber {
+    max-width: 2.25rem;
+}

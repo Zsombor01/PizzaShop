@@ -1,0 +1,15 @@
+body {
+    overflow-x: hidden;
+    
+}
+ .navbar {
+    position: absolute;
+    z-index: 1;
+}
+
+.small-container1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    word-spacing: 1px;
+}
+
